@@ -1,0 +1,12 @@
+/*.container{
+    height: max-content;
+}
+.nav-photos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.tab-pane{
+    display: flex;
+    justify-content: center;
+} */
